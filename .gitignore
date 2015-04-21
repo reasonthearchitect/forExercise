@@ -13,4 +13,8 @@ build/
 target/
 jbehave/
 .idea/
-*
+gradle/
+.gradle/
+/docs
+gradlew
+gradlew.bat
