@@ -1,0 +1,15 @@
+/*.iml
+/*.ipr
+/*.iws
+/*.ids
+/*.log
+/*.versionsBackup
+bin/
+wrapper
+*.classpath
+*.project
+.settings
+build/
+target/
+jbehave/
+.idea/

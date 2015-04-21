@@ -1,2 +1,6 @@
-# forExercise
-forExercise
+* [License](docs/1.LICENSE.md) 
+* [What We Are Looking For](docs/3.2.WhatWeAreLookingFor.md)
+* [Requirements](docs/3.0.Requirements.md)
+* [Getting Started](docs/3.1.GettingStarted.md)
+* [Coding Exercise](docs/4.exercise.md)
+* [Completing the Exercise](docs/5.completing.md)
